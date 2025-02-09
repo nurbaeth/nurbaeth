@@ -16,3 +16,5 @@
 
 ---
 ⭐️ Check out my repositories and feel free to contribute!
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nurbaeth&show_icons=true&theme=dark)
+
