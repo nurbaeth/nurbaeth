@@ -17,7 +17,7 @@
 ### 📊 GitHub Stats  
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nurbaeth&show_icons=true&theme=dark)
 
 </div>
 
