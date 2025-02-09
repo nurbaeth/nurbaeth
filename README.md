@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Nurba!  
 
-<!--
-**nurbaeth/nurbaeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🎯 Passionate about coding and open-source  
+- 💡 Learning Python, GitHub, and game development  
+- 🎮 Working on fun projects like **Guess The Number**  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack  
+- 🔹 Python | JavaScript  
+- 🔹 GitHub | Git  
+- 🔹 HTML | CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me  
+- 💬 Ask me anything on GitHub Discussions  
+- ✉️ Email: nurbaphone@gmail.com  
+
+---
+⭐️ Check out my repositories and feel free to contribute!
